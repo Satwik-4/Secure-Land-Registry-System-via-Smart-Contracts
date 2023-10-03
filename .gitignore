@@ -1,0 +1,7 @@
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+protobuf-3.20.0/
